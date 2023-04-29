@@ -1,4 +1,4 @@
-package com.roynaldi19.abk01_06debugging
+package com.roynaldi19.abk1_04debugging
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
