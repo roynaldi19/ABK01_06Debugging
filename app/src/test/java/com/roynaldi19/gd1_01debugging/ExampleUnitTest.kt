@@ -1,4 +1,4 @@
-package com.roynaldi19.abk1_04debugging
+package com.roynaldi19.gd1_01debugging
 
 import org.junit.Test
 

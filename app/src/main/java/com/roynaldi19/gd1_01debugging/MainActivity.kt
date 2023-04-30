@@ -1,4 +1,4 @@
-package com.roynaldi19.abk1_04debugging
+package com.roynaldi19.gd1_01debugging
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
